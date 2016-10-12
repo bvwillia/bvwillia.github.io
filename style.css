@@ -1,7 +1,20 @@
-<link>
 
 p {
     color: red;
     font-size: 40px;
     text-align: center;
 }
+
+<a class="hidden-links">
+
+hidden-links {
+	text-decoration: none;
+	color: #536482;		/* This is a comment, and this color is a greyish-blue */
+}
+<p id="first-paragraph">
+#first-paragraph {
+	font-family: helvetica, san-serif;		
+font-size: 16px;
+color: blue; 
+}
+
