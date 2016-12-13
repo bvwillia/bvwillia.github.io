@@ -5,6 +5,11 @@ p {
     text-align: center;
 }
 
+h1{
+  color: black;
+  text-align: center;
+}
+
 a {
   color: black;
   font-size: 35px;
